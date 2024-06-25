@@ -3685,7 +3685,7 @@
   "title":"Turismo Arqueologico y Cultural responsable",
   "type":"turismo",
   "description": "Turismo Arqueológico y Cultural Responsable\n\nSan Francisco del Monte de Oro guarda riquezas culturales y naturales que valen la pena conocerlas y vivirlas. Te invito a explorar e interpretar nuestro paisaje, donde los primeros habitantes del valle plasmaron sus conocimientos para transformarlos en mensajes ancestrales.\nActividades: Visita a las pinturas rupestres- Once morteros- Paseo de los Morteros (urbano) Salidas nocturnas: Astronomía Cultural (cosmovisión ancestral y actual del cielo)\n\nPerfil de la actividad: Turismo familiar- Turismo educativo- Turismo científico- Turismo recreativo.\nDificultad: Baja a moderada\nAlejandra Negro (Lic. en Cs Antropológicas, UBA)\nTrabajando desde el año 2016 en turismo Arqueológico",
-  "category": "Guias de Turismo",
+  "category": "Actividades recreativas",
   "subCategory": "",
   "image": [
     "https://i.imgur.com/FvTalff.jpeg",
@@ -3695,7 +3695,7 @@
     "https://i.imgur.com/JjXuXrI.jpeg"
   ],
   "name": "Alejandra Negro",
-  "phone": "2664933528",
+  "phone": "2664888422",
   "horario":"",
   "status": "Premium",
   "tags": ["Turismo","Arqueologico","Cultural","Senderismo","Recorridos","Pinturas","Rupestres","Rodeo","Cadenas","Paraje","Rincon","Morteros","Rio","Claro"]
@@ -3715,7 +3715,7 @@
     "https://i.imgur.com/JjXuXrI.jpeg"
   ],
   "name": "Alejandra Negro",
-  "phone": "2664933528",
+  "phone": "2664888422",
   "horario":"",
   "status": "Premium",
   "tags": ["Turismo","Arqueologico","Cultural","Senderismo","Recorridos","Pinturas","Rupestres","Rodeo","Cadenas","Paraje","Rincon","Morteros","Rio","Claro"]
@@ -3864,7 +3864,11 @@
   "description": "Servicio de mantenimiento\n\n*Carpintería de autor\n*Herrería de autor\n*Pintura\n*Electricidad\n*Montaje de muebles\n*Planos - dirección de obra\n*Limpieza de galpones y depósitos\n*Agua: instalación,  cisternas. Bombas\n\nCuento con mi propio equipo de trabajo.\n\nSi tenés un problema en tu hogar, comercio o cabaña te encuentro la SOLUCIÓN",
   "horario": "",
   "image": [
-    "https://i.imgur.com/aDqNfIz.jpeg"
+    "https://i.imgur.com/DAmWi8L.jpeg",
+    "https://i.imgur.com/6Q9yiHz.jpeg",
+    "https://i.imgur.com/mwyVHfS.jpeg",
+    "https://i.imgur.com/SsHZzuh.jpeg",
+    "https://i.imgur.com/l7wrDPC.jpeg"
    
   ],
   "category": "Construccion",
@@ -3879,7 +3883,108 @@
     "facebook": ""
   },
   "tags": ["Mantenimiento","Carpinteria","Herreria","Pintura","Electricidad","Montaje","Muebles","Planos","Direccion","Obra","Limpieza","Galpones","Depositos","Agua","Instalacion","Cisternas","Bombas","Soluciones","Hogar","Comercio","Cabaña"]
-}
+},
+{
+  "id": 226,
+  "title":"Pochoclera tía Paola",
+  "description": "Pochoclos - Algodón de azúcar - Juguetes - Eventos  y cumpleaños",
+  "category": "Fiestas Infantiles",
+  "subCategory": "",
+  "name": "Paola",
+  "phone": "2665000974",
+  "horario":"",
+  "status": "Free",
+  "tags": ["Pochoclos","Fiestas","Infantiles","Juguetes","Kermesse","Eventos","Niños","Niñas","Cumpleaños","Algodon de azucar"]
+ },
+ {
+  "id": 227,
+  "title":"N&A nieta Aurelia",
+  "description": "Bebidas - Gancia artesanal - Fernet artesal - Bondiola  - Jamón grueso y Salimines artesanales",
+  "category": "Productores - Emprendedores",
+  "subCategory": "",
+  "name": "",
+  "phone": "2664655645",
+  "horario":"",
+  "status": "Free",
+  "tags": ["Elaboracion","Bebidas","Gancia","Artesanal","Fernet","Bondiola","Jamon","Salamin","Salamines","Casero"]
+ },
+ {
+  "id": 228,
+  "title":"El Atelier mercería",
+  "description": "Telas - Lanas - Mercería - Servicio de costura en general. Insumos para  bijouterier - Porcelana fría - L a s 9 a13 y 17 a 21",
+  "category": "Merceria",
+  "subCategory": "",
+  "name": "",
+  "phone": "2664205439",
+  "horario":"",
+  "status": "Free",
+  "tags": ["Telas","Lanas","Merceria","Costura","Insumos","Bijouterier","Arreglos","Porcelana","Artesanias"]
+ },
+ {
+  "id": 229,
+  "title":"Farmácia San Francisco",
+  "description": "Perfumería - Farmacia - Regaleria - Dosep y PAMI %50 - L a S de  9 a 13hs y de 18 a 22hs",
+  "category": "Farmacias",
+  "subCategory": "",
+  "name": "",
+  "phone": "2664374001",
+  "horario":"",
+  "location": {
+    "latitude": -32.601839,
+    "longitude": -66.126993
+  },
+  "status": "Free",
+  "tags": ["Perfumeria","Regaleria","Farmacia","DOSEP","Insumos","PAMI"]
+ },
+ {
+  "id": 230,
+  "title":"Banco de la Nacion Argentina",
+  "description": "Banco de la Nacion Argentina - L a V de 8 a 13hs",
+  "category": "Banco",
+  "subCategory": "",
+  "name": "",
+  "phone": "08106664444",
+  "horario":"",
+  "location": {
+    "latitude": -32.601861, 
+    "longitude": -66.127077
+  },
+  "status": "Free",
+  "tags": ["Banco","Nacion"]
+ },
+ {
+  "id": 231,
+  "title":"Panaderia Abuela Teodora",
+  "description": "Panificados - Facturas - L a S 6 a 13hs  y  de 17 a 19hs",
+  "category": "Panaderias - Pastelerias",
+  "subCategory": "",
+  "name": "",
+  "phone": "2664784555",
+  "horario":"",
+  "location": {
+    "latitude": -32.600794,
+    "longitude": -66.126676
+  },
+  "status": "Free",
+  "tags": ["Panificados","Panes","Facturas"]
+ },
+ {
+  "id": 232,
+  "title":"Farmacia Marymen",
+  "description": "Atencion de Mutuales - Hierbas Medicionales - Perfumeria - Regaleria",
+  "category": "Farmacias",
+  "subCategory": "",
+  "name": "",
+  "phone": "2651426141",
+  "horario":"",
+  "location": {
+    "latitude": -32.601901,
+    "longitude": -66.128270
+  },
+  "status": "Free",
+  "tags": ["Farmacia","Mutuales","Hierbas","Perfumeria","Medicinales","Regaleria","Medicamentos"]
+ }
+
 
 
  
