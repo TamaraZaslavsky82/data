@@ -2477,7 +2477,7 @@
  {
   "id": 150 ,
   "title":"Hacer Turismo SF",
-  "description": "Recorridos:\n\nSalto Escondido\nSalto del Indio\nMina de Cuarzo\nPinturas Rupestres\nMirador panoramico 360º",
+  "description": "Actividades que brindamos en Francisco del Monte de Oro!\n➡ Excursión Salto Escondido\n➡ Excursión Salto El Indio\n➡Pinturas Rupestres\n➡Ruta del Cuarzo\n➡Turismo Cultural Historico➡Viajes No comunes. \nAuto/Camioneta/MiniBus\n➡Pasajes a todo el Pais\n☎ Reserva sl 2665-010706",
   "category": "Guias de Turismo",
   "subCategory": "",
   "name": "Raul",
@@ -2518,7 +2518,7 @@
   "id": 152 ,
   "title":"Hacer Turismo SF",
   "type":"turismo",
-  "description": "Recorridos:\n\nSalto Escondido\nSalto del Indio\nMina de Cuarzo\nPinturas Rupestres\nMirador panoramico 360º",
+  "description": "Actividades que brindamos en Francisco del Monte de Oro!\n➡ Excursión Salto Escondido\n➡ Excursión Salto El Indio\n➡Pinturas Rupestres\n➡Ruta del Cuarzo\n➡Turismo Cultural Historico➡Viajes No comunes. \nAuto/Camioneta/MiniBus\n➡Pasajes a todo el Pais\n☎ Reserva sl 2665-010706",
   "category": "Actividades recreativas",
   "subCategory": "",
   "name": "Raul",
@@ -3983,9 +3983,72 @@
   },
   "status": "Free",
   "tags": ["Farmacia","Mutuales","Hierbas","Perfumeria","Medicinales","Regaleria","Medicamentos"]
- }
+ },
+ {
+  "id": 233,
+  "title":"Delicias Mágicas",
+  "description": "Mesas dulces y saladas para eventos por pedido",
+  "category": "Productores - Emprendedores",
+  "subCategory": "",
+  "name": "Lanzoni Nadia",
+  "phone": "2651426141",
+  "horario":"",
 
-
+  "status": "Free",
+  "tags": ["Cupcakes","Tartas de frutas","Postres","Tortas","Pizza arrollada","Sandwich con pan casero artesanal","Pancitos rellenos"]
+ },
+ {
+  "id": 234,
+  "title": "Delorean Design",
+  "description": "Diseño e Impresion 3D\nDiseños exclusivos y personalizados\nLlaveros - Pines - Insignias - Todo tipo de elementos decorativos de tu emprendimiento o empresa\nSouvenirs\nCarteleria interior y exterior para tu comercio\nJuegos didacticos\nPiezas y repuestos a medida para electrodomesticos",
+  "horario": "",
+  "image": [
+    "https://i.imgur.com/DQbBJPJ.jpeg",
+    "https://i.imgur.com/DFWLnl0.jpeg",
+    "https://i.imgur.com/RXXIvDJ.jpeg",
+    "https://i.imgur.com/ffarHWj.jpeg",
+    "https://i.imgur.com/BMyFX3Y.jpeg"
+   
+  ],
+  "category": "Productores - Emprendedores",
+"type":"turismo",
+  "name": "",
+  "phone": "1134475637",
+  "status": "Premium",
+  
+  "links": {
+    "website": "",
+    "instagram": "https://www.instagram.com/delorean_design/",
+    "facebook": "https://www.facebook.com/profile.php?id=100077035696584"
+  },
+  "tags": ["3D","Souvenirs","Juegos","Didactico","Impresion","Emprendimiento","Empresas","Diseños","Carteleria","Pedidos","Decoraciones","Piezas","Repuestos","Electrodomesticos","Llaveros","Pines","Juguetes"]
+},
+{
+  "id": 235,
+  "title": "Hogwarts School of English",
+  "description": "Cursos de Ingles para niños, adolescentes y adultos\nClases presenciales, personalizadas y dinamicas\nExamenes Nacionales e Internacionales",
+  "horario": "",
+  "image": [
+    "https://i.imgur.com/LPrdvW4.jpeg",
+    "https://i.imgur.com/wn033El.jpeg",
+    "https://i.imgur.com/W0H5goK.jpeg",
+    "https://i.imgur.com/SnCY8LC.jpeg"
+    
+   
+  ],
+  "category": "Clases y Talleres",
+"type":"turismo",
+  "name": "Daniela Esmoris",
+  "phone": "1130099468",
+  "status": "Premium",
+  
+  "links": {
+    "website": "",
+    "instagram": "https://www.instagram.com/hogwarts_school_ofenglish/",
+    "facebook": "https://www.facebook.com/profile.php?id=1000639165430734"
+  },
+  "tags": ["Instituto","Ingles","Niños","Adolescentes","Adultos","Clases","Examenes","Nacionales","Internacionales"]
+}
 
  
 
