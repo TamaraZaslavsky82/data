@@ -992,7 +992,7 @@
     "id": 67,
     "title": "FM Radio Caranday",
     "description": "Transmite en la frecuencia 94.1 MHz y se caracteriza por su programación variada, que incluye música, información, entretenimiento y cultura.",
-    "category": "Radios y Programas",
+    "category": "Medios de Comunicacion",
     "subCategory": "",
     "name": "Roque Rivero",
     "phone": "2665041549",
@@ -1294,7 +1294,7 @@
     "id": 86,
     "title": "Radio Comunitaria La Cigarra",
     "description": "FM 90.3 Comunicacion Popular. Al aire las 24 hs",
-    "category": "Radios y Programas",
+    "category": "Medios de Comunicacion",
     "subCategory": "",
     "name": "",
     "phone": "2665056056",
@@ -4029,11 +4029,11 @@
   "description": "Cursos de Ingles para niños, adolescentes y adultos\nClases presenciales, personalizadas y dinamicas\nExamenes Nacionales e Internacionales",
   "horario": "",
   "image": [
-    "https://i.imgur.com/LPrdvW4.jpeg",
-    "https://i.imgur.com/wn033El.jpeg",
-    "https://i.imgur.com/W0H5goK.jpeg",
-    "https://i.imgur.com/SnCY8LC.jpeg"
-    
+    "https://i.imgur.com/DQbBJPJ.jpeg",
+    "https://i.imgur.com/DFWLnl0.jpeg",
+    "https://i.imgur.com/RXXIvDJ.jpeg",
+    "https://i.imgur.com/ffarHWj.jpeg",
+    "https://i.imgur.com/BMyFX3Y.jpeg"
    
   ],
   "category": "Clases y Talleres",
@@ -4048,10 +4048,89 @@
     "facebook": "https://www.facebook.com/profile.php?id=1000639165430734"
   },
   "tags": ["Instituto","Ingles","Niños","Adolescentes","Adultos","Clases","Examenes","Nacionales","Internacionales"]
-}
-
- 
-
+},{
+  "id": 236,
+  "title": "Que pasa San Francisco",
+  "description": "Pagina de face que ofrece de forma constante : Información-Avisos importante- El día a día de nuestra comunidad San Francisco del Monte de Oro",
+  "category": "Medios de Comunicacion",
+  "subCategory": "",
+  "name": "",
+  "phone": "",
+  "status": "Free",
+  "tags": ["Informacion", "Avisos", "San Francisco", "Que pasa", "Entretenimiento", "Cultura", "Noticias", "Comunidad"]
+},
+{
+  "id": 237,
+  "title": "Revista Clasificados",
+  "description": "Te invitamos a expandir tu emprendimiento a través de la revista del pueblo!\nSi brindas cualquier tipo de servicio, si sos artesano, si tenés un proyecto, si alquilas, si tenés un local, si querés proponerle algo al pueblo y querés dar a conocer tu idea...\n\nTambién si querés vender algo o necesitas comprar algo.\n\nEscribime al: 2664684223\n *Revista bimestral\n*Blanco y negro\n*Se reparte de forma gratuita en locales\n*También en versión PDF",
+  "horario": "",
+  "image": [
+    "https://i.imgur.com/CyHzh4t.jpeg",
+    "https://i.imgur.com/GHUD48G.jpeg"
+   
+   
+  ],
+  "category": "Productores - Emprendedores",
+"type":"turismo",
+  "name": "",
+  "phone": "2664684223",
+  "status": "Premium",
+  
+  "links": {
+    "website": "",
+    "instagram": "",
+    "facebook": ""
+  },
+  "tags": ["Revista","Clasificados","Compras","Ventas","Publicidad"]
+},
+{
+  "id": 238,
+  "title": "Revista Clasificados",
+  "description": "Te invitamos a expandir tu emprendimiento a través de la revista del pueblo!\nSi brindas cualquier tipo de servicio, si sos artesano, si tenés un proyecto, si alquilas, si tenés un local, si querés proponerle algo al pueblo y querés dar a conocer tu idea...\n\nTambién si querés vender algo o necesitas comprar algo.\n\nEscribime al: 2664684223\n *Revista bimestral\n*Blanco y negro\n*Se reparte de forma gratuita en locales\n*También en versión PDF",
+  "horario": "",
+  "image": [
+    "https://i.imgur.com/CyHzh4t.jpeg",
+    "https://i.imgur.com/GHUD48G.jpeg"
+   
+   
+  ],
+  "category": "Medios de Comunicacion",
+"type":"turismo",
+  "name": "",
+  "phone": "2664684223",
+  "status": "Premium",
+  
+  "links": {
+    "website": "",
+    "instagram": "",
+    "facebook": ""
+  },
+  "tags": ["Revista","Clasificados","Compras","Ventas","Publicidad"]
+},
+{
+  "id": 239,
+  "title":"Taller de Canto",
+  "description": "Te invitamos a expresar tu voz, haciendo musica con otr@s...Aprendemos dinamicas de teoria musical en la practica de las canciones - Viernes 15hs",
+  "category": "Clases y Talleres",
+  "subCategory": "",
+  "name": "",
+  "phone": "1132007611",
+  "horario":"",
+  "status": "Free",
+  "tags": ["Clases","Canto","Musica","Dinamicas","Canciones","Expresion"]
+ },
+ {
+  "id": 240,
+  "title":"Taller de Percusion",
+  "description": "Unificaremos diferentes tambores. Abordando desde lo teorico-practico el ensamble de distintos ritmos.Si tienes cualquier tambor traelo , si no te prestamos!!! - Viernes 16:30hs",
+  "category": "Clases y Talleres",
+  "subCategory": "",
+  "name": "",
+  "phone": "1132007611",
+  "horario":"",
+  "status": "Free",
+  "tags": ["Clases","Precusion","Musica","Tambores","Ritmos"]
+ }
 
 
 
