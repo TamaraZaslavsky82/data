@@ -4011,6 +4011,12 @@
    
   ],
   "category": "Productores - Emprendedores",
+  "location": {
+    "latitude": -32.602550,
+    "longitude": -66.123128
+
+
+  },
 "type":"turismo",
   "name": "",
   "phone": "1134475637",
@@ -4041,7 +4047,12 @@
   "name": "Daniela Esmoris",
   "phone": "1130099468",
   "status": "Premium",
-  
+  "location": {
+    "latitude": -32.602550,
+    "longitude": -66.123128
+
+
+  },
   "links": {
     "website": "",
     "instagram": "https://www.instagram.com/hogwarts_school_ofenglish/",
