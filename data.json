@@ -4141,7 +4141,40 @@
   "horario":"",
   "status": "Free",
   "tags": ["Clases","Precusion","Musica","Tambores","Ritmos"]
+ },
+ {
+  "id": 241,
+  "title":"Despensa los primos",
+  "description": "Despensa los primos. Atendido por sus dueños.Podes encontrar leña, garrafas, lacteos, fiambres, panificados, golosinas. Horarios de atencion: Lunes a Viernes de 8 a 13:30 y de 17 a 21hs - Sabados de 9 a 13:30 y de 17 a 21hs ",
+  "subCategory": "",
+  "name": "",
+  "phone": "2664684937",
+  "horario":"",
+  "location": {
+    "latitude": -32.615460,
+    "longitude":  -66.127410
+
+
+  },
+  "status": "Free",
+  "tags": ["Lacteos","Despensa","Golosinas","Panificados","Fiambreria","Leña","Garrafa"]
+ },
+ {
+  "id": 242,
+  "title":"La Verdu de Banda Sur",
+  "description": "La Verdu de Banda Sur, podes encontrar todo lo que buscas, productos de primera calidad , contamos con panificados y tambien miel - Lunes a Sabado de de 9 a 13 hs y de 18 a 21hs - Domingos de 9:30  a 13hs",
+  "subCategory": "",
+  "name": "",
+  "phone": "",
+  "horario":"",
+  "location": {
+    "latitude": -32.615273,
+    "longitude": -66.127263
+},
+  "status": "Free",
+  "tags": ["Verduras","Panificados","Frutas","Miel"]
  }
+
 
 
 
