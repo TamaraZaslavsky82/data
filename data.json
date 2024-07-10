@@ -4175,7 +4175,24 @@
 },
   "status": "Free",
   "tags": ["Verduras","Panificados","Frutas","Miel"]
+ },
+ {
+  "id": 243,
+  "title":"Las pastas del Tata 1944",
+  "description": "(Boutique de pastas y Restaurant)Horarios de atención  Lunes  a  Sabados de 9:00hs a 14hs y de 18hs : 22hsDomingo de 10hs a 14 aprox.",
+  "subCategory": "",
+  "category": "Lugares para comer",
+  "name": "",
+  "phone": "",
+  "horario":"",
+  "location": {
+    "latitude": -32.596922,
+    "longitude":-66.127811
+},
+  "status": "Free",
+  "tags": ["Pastas","Pastas frescas","Restaurant"]
  }
+
 
 
 
