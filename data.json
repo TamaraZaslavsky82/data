@@ -4225,7 +4225,38 @@
 },
   "status": "Free",
   "tags": ["Lubricentro","Repuestos","Lubricantes","Motos","Aceite","Moto","Repuesto"]
+ },
+ {
+  "id": 246,
+  "title":"Academia Danza Árabe WALA BANSÁK - SAN FRANCISCO Y CIUDAD LA PUNTA",
+  "description": "Clases para Hobie o  con Formación Educativa...  Todas las edades  a partir de los 5 Añitos ... BABYS 5 - 6 añitos - INFANTILES 7 a 12 años  - JUVENILES 13 a 17 años  - ADULTOS 18 a 55 años ... Para PRINCIPIANTES - INTERMEDIO Y AVANZADO...  Certificados OFICIALES y Título con formación  Docente - Profesional ....Profe Delia y Profe Yasmin.",
+  "subCategory": "",
+  "category": "Clases y Talleres",
+  "name": "",
+  "phone": "2664172394",
+  "horario":"",
+  "location": {
+    "latitude": -32.601635,
+    "longitude": -66.126951
+  },
+  "status": "Free",
+  "tags": ["Danzas","Academia","Hobies","Arabe","Danzas Arabes","Avanzado","Intermedio","Niños","Adultos"]
+ },
+ {
+  "id": 247,
+  "title":"Lavanderia AltaPinta.",
+  "description": "Lavanderia AltaPinta. 💦.Todo tipo de Lavados de acolchados,ropa,cortinas,etc.Limpieza de tapizados de auto,colchones,practicunas,cochesitos. Desmanchados de ropa en general y mucho más... 💦Horarios de 9am a 20pm. (De corrido)",
+  "subCategory": "",
+  "category": "Lavaderos",
+  "name": "",
+  "phone": "",
+  "horario":"",
+ 
+  "status": "Free",
+  "tags": ["Lavadero","Lavanderia","Ropa","Acolchado","Colchones","Desmanchado","Limpieza","Tapizados"]
  }
+
+
 
 
 
