@@ -4179,18 +4179,13 @@
  {
   "id": 243,
   "title":"Las pastas del Tata 1944",
-  "description": "(Boutique de pastas y Restaurant)Horarios de atención  Lunes  a  Sabados de 9:00hs a 14hs y de 18hs : 22hsDomingo de 10hs a 14 aprox.",
+  "description": "El secreto esta en un buen relleno -Pastas 100% artesanales",
   "subCategory": "",
-  "category": "Lugares para comer",
+  "category": "Productores - Emprendedores",
   "name": "",
-  "phone": "",
+  "phone": "1157453126",
   "horario":"",
-  "location": {
-    "latitude": -32.598287,
-    "longitude": -66.128154
 
-
-},
   "status": "Free",
   "tags": ["Pastas","Pastas frescas","Restaurant"]
  },
@@ -4254,6 +4249,32 @@
  
   "status": "Free",
   "tags": ["Lavadero","Lavanderia","Ropa","Acolchado","Colchones","Desmanchado","Limpieza","Tapizados"]
+ },
+ {
+  "id": 248,
+  "title":"Remises Pocho - Enrique Miguel isaguirre",
+  "description": "Remises pocho",
+  "subCategory": "",
+  "category": "Remises",
+  "name": "",
+  "phone": "2664467069",
+  "horario":"",
+ 
+  "status": "Free",
+  "tags": ["Remis","Remises","Viajes"]
+ },
+ {
+  "id": 249,
+  "title":"Remises Pocho",
+  "description": "Remises pocho",
+  "subCategory": "",
+  "category": "Remises",
+  "name": "",
+  "phone": "2664203292",
+  "horario":"",
+ 
+  "status": "Free",
+  "tags": ["Remis","Remises","Viajes"]
  }
 
 
