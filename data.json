@@ -4294,6 +4294,10 @@
   "instagram": "https://www.instagram.com/lacamaracolgada.tur?igsh=ZGUzMzM3NWJiOQ==",
   "facebook": ""
 },
+     "location": {
+    "latitude": 
+    "longitude": 
+  },
 "image": [
   "https://i.imgur.com/vtTp8wC.jpeg",
   "https://i.imgur.com/kn6IoNm.jpeg",
@@ -4346,14 +4350,5 @@
   "tags": ["Puertas", "Ventanas", "Recicladas", "Reacondicionadas", "Aberturas", "Antiguas", "Cedro", "Roble", "Pinotea", "Chapa", "Trabajos", "Carpinteria", "Soldaduras", "Separacion", "Espacio", "Abertura", "Entrepisos"],
  
 }
-
-
-
-
-
-
-
-
-
 
 ]
