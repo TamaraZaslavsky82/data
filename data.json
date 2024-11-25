@@ -4275,7 +4275,8 @@
  
   "status": "Free",
   "tags": ["Remis","Remises","Viajes"]
- },  {
+ },  
+  {
   "id": 250,
   "title":"Astrofotografía ",
   "description": "Salidas fotográficas para toda la familia. Veni a conocer el mágico mundo de la observación de las estrellas, cosmovisión, y el poder de pitan con luz bajo la luz de la luna. Conoce la historia, la tecnología y los ejemplos de esta práctica que mezcla la fotografía y la astronomía. Actividad para toda la familia, una forma de conectar con la naturaleza de noche. \nFotografía experimental, Cianotipia. \nCon el sol como único revelador, esta practica los invita a dar un paseo en el corazón de San francisco del monte de oro, admirando la majestuosidad del ambiente, sus sonidos, facetas, cada participante se lleva como souvenir un pedazo de este lugar en cada imagen.",
@@ -4287,7 +4288,7 @@
   "horario":"",
   "status": "Premium",
   
-},
+
 "links": {
   "website": "",
   "instagram": "https://www.instagram.com/lacamaracolgada.tur?igsh=ZGUzMzM3NWJiOQ==",
